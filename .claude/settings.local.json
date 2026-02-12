@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(source:*)",
+      "Bash(python:*)",
+      "Bash(brew install:*)",
+      "Bash(/opt/homebrew/bin/python3.13:*)"
+    ]
+  }
+}
